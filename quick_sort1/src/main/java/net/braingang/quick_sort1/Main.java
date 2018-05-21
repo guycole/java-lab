@@ -6,7 +6,9 @@ public class Main {
     /*
     ** quick sort
     ** place items below or above "pivot"
-    ** big O = O(n^2) which happens when pivot contains smallest or largest item
+    ** big O = O(n log n) [average case]
+    ** big O = O(n^2) [worst case] which happens when pivot contains smallest or largest item
+    ** memory is O(log n)
     */
 
     public Main() {

@@ -5,7 +5,8 @@ import java.util.Random;
 public class Main {
     /*
      ** bubble sort, swap adjacent elements - always makes at least one pass - widely criticized
-     ** big O = O(n^2)
+     ** runtime average big O = O(n^2)
+     ** memory big O = O(1)
      */
 
     public Main() {

@@ -5,7 +5,8 @@ import java.util.Random;
 public class Main {
     /*
      ** selection sort, find min element and swap, good if memory constrained
-     ** big O = O(n^2)
+     ** runtime average big O = O(n^2)
+     ** memory big O = O(1)
      */
 
     public Main() {

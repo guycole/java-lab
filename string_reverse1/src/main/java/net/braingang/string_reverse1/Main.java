@@ -6,7 +6,7 @@ public class Main {
         System.out.println("ctor");
     }
 
-    public String execute(String arg) {
+    public String execute1(String arg) {
         StringBuffer sb = new StringBuffer();
 
         for (int ii = arg.length()-1; ii >= 0; ii--) {
@@ -21,7 +21,8 @@ public class Main {
 
         Main main = new Main();
 
-        System.out.println(main.execute("testaroo"));
+        System.out.println(main.execute1("testaroo"));
+        System.out.println(main.execute1("ooratset"));
 
         System.out.println("end");
     }

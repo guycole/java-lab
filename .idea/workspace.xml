@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1feef445-f775-4883-bb57-96c87ef6d4c3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bubble_sort1/src/main/java/net/braingang/bubble_sort1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/bubble_sort1/src/main/java/net/braingang/bubble_sort1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quick_sort1/src/main/java/net/braingang/quick_sort1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/quick_sort1/src/main/java/net/braingang/quick_sort1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive_fib/src/main/java/net/braingang/recursive_fib/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursive_fib/src/main/java/net/braingang/recursive_fib/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selection_sort1/src/main/java/net/braingang/selection_sort1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/selection_sort1/src/main/java/net/braingang/selection_sort1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string_reverse1/src/main/java/net/braingang/string_reverse1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/string_reverse1/src/main/java/net/braingang/string_reverse1/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,20 +19,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/string_reverse1/src/main/java/net/braingang/string_reverse1/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hash_table1/src/main/java/net/braingang/hash_table1/Main.java">
+        <entry file="file://$PROJECT_DIR$/permute1/src/main/java/net/braingang/permute1/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="715">
+              <caret line="97" column="43" selection-start-line="97" selection-start-column="43" selection-end-line="97" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -46,17 +45,21 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/thread_demo1/src/main/java/net/braingang/demo1/Main.java" />
-        <option value="$PROJECT_DIR$/sample1/src/main/java/net/braingang/sample1/Main.java" />
         <option value="$PROJECT_DIR$/thread_demo1/src/main/java/net/braingang/thread_demo/Main.java" />
+        <option value="$PROJECT_DIR$/insertion_sort1/src/main/java/net/braingang/insertion_sort1/Main.java" />
+        <option value="$PROJECT_DIR$/shell_sort1/src/main/java/net/braingang/shell_sort1/Main.java" />
+        <option value="$PROJECT_DIR$/tree_sort1/src/main/java/net/braingang/tree_sort1/Main.java" />
+        <option value="$PROJECT_DIR$/hash_table1/src/main/java/net/braingang/hash_table1/Main.java" />
+        <option value="$PROJECT_DIR$/string_reverse1/src/main/java/net/braingang/string_reverse1/Main.java" />
         <option value="$PROJECT_DIR$/recursive_fib/src/main/java/net/braingang/recursive_fib/Main.java" />
         <option value="$PROJECT_DIR$/bubble_sort1/src/main/java/net/braingang/bubble_sort1/Main.java" />
         <option value="$PROJECT_DIR$/selection_sort1/src/main/java/net/braingang/selection_sort1/Main.java" />
-        <option value="$PROJECT_DIR$/insertion_sort1/src/main/java/net/braingang/insertion_sort1/Main.java" />
+        <option value="$PROJECT_DIR$/merge_sort1/src/main/java/net/braingang/merge_sort1/Main.java" />
         <option value="$PROJECT_DIR$/quick_sort1/src/main/java/net/braingang/quick_sort1/Main.java" />
-        <option value="$PROJECT_DIR$/shell_sort1/src/main/java/net/braingang/shell_sort1/Main.java" />
-        <option value="$PROJECT_DIR$/tree_sort1/src/main/java/net/braingang/tree_sort1/Main.java" />
-        <option value="$PROJECT_DIR$/string_reverse1/src/main/java/net/braingang/string_reverse1/Main.java" />
-        <option value="$PROJECT_DIR$/hash_table1/src/main/java/net/braingang/hash_table1/Main.java" />
+        <option value="$PROJECT_DIR$/sample1/src/main/java/net/braingang/sample1/Main.java" />
+        <option value="$PROJECT_DIR$/bin_search1/src/main/java/net/braingang/bin_search1/Main.java" />
+        <option value="$PROJECT_DIR$/magic_square1/src/main/java/net/braingang/sample1/Main.java" />
+        <option value="$PROJECT_DIR$/permute1/src/main/java/net/braingang/permute1/Main.java" />
       </list>
     </option>
   </component>
@@ -70,18 +73,19 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="531" />
+    <option name="x" value="262" />
     <option name="y" value="23" />
-    <option name="width" value="1389" />
-    <option name="height" value="1097" />
+    <option name="width" value="1482" />
+    <option name="height" value="1069" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -92,81 +96,25 @@
             <path>
               <item name="java-lab" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-lab" type="462c0819:PsiDirectoryNode" />
-              <item name="hash_table1" type="462c0819:PsiDirectoryNode" />
+              <item name="permute1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-lab" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-lab" type="462c0819:PsiDirectoryNode" />
-              <item name="hash_table1" type="462c0819:PsiDirectoryNode" />
+              <item name="permute1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-lab" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-lab" type="462c0819:PsiDirectoryNode" />
-              <item name="hash_table1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-lab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-lab" type="462c0819:PsiDirectoryNode" />
-              <item name="hash_table1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-lab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-lab" type="462c0819:PsiDirectoryNode" />
-              <item name="hash_table1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-lab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-lab" type="462c0819:PsiDirectoryNode" />
-              <item name="hash_table1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-              <item name="braingang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-lab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-lab" type="462c0819:PsiDirectoryNode" />
-              <item name="hash_table1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-              <item name="braingang" type="462c0819:PsiDirectoryNode" />
-              <item name="hash_table1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-lab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-lab" type="462c0819:PsiDirectoryNode" />
-              <item name="string_reverse1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-lab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-lab" type="462c0819:PsiDirectoryNode" />
-              <item name="string_reverse1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-lab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-lab" type="462c0819:PsiDirectoryNode" />
-              <item name="string_reverse1" type="462c0819:PsiDirectoryNode" />
+              <item name="permute1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-lab" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-lab" type="462c0819:PsiDirectoryNode" />
-              <item name="string_reverse1" type="462c0819:PsiDirectoryNode" />
+              <item name="permute1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -174,7 +122,7 @@
             <path>
               <item name="java-lab" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-lab" type="462c0819:PsiDirectoryNode" />
-              <item name="string_reverse1" type="462c0819:PsiDirectoryNode" />
+              <item name="permute1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -183,7 +131,7 @@
             <path>
               <item name="java-lab" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-lab" type="462c0819:PsiDirectoryNode" />
-              <item name="string_reverse1" type="462c0819:PsiDirectoryNode" />
+              <item name="permute1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -193,19 +141,18 @@
             <path>
               <item name="java-lab" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-lab" type="462c0819:PsiDirectoryNode" />
-              <item name="string_reverse1" type="462c0819:PsiDirectoryNode" />
+              <item name="permute1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="net" type="462c0819:PsiDirectoryNode" />
               <item name="braingang" type="462c0819:PsiDirectoryNode" />
-              <item name="string_reverse1" type="462c0819:PsiDirectoryNode" />
+              <item name="permute1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Java Scratch.hash_table1">
+  <component name="RunManager" selected="Java Scratch.permute1">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -250,6 +197,10 @@
     <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
       <option name="MAIN_CLASS_NAME" value="Main.java" />
     </configuration>
+    <configuration name="bin_search1" type="Java Scratch" factoryName="Java Scratch">
+      <option name="MAIN_CLASS_NAME" value="net.braingang.bin_search1.Main" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/bin_search1/src/main/java" />
+    </configuration>
     <configuration name="bubble_sort1" type="Java Scratch" factoryName="Java Scratch">
       <option name="MAIN_CLASS_NAME" value="net.braingang.bubble_sort1.Main" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/bubble_sort1/src/main/java" />
@@ -261,6 +212,18 @@
     <configuration name="insertion_sort1" type="Java Scratch" factoryName="Java Scratch">
       <option name="MAIN_CLASS_NAME" value="net.braingang.insertion_sort1.Main" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/insertion_sort1/src/main/java" />
+    </configuration>
+    <configuration name="magic_square1" type="Java Scratch" factoryName="Java Scratch">
+      <option name="MAIN_CLASS_NAME" value="net.braingang.sample1.Main" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/magic_square1/src/main/java" />
+    </configuration>
+    <configuration name="merge_sort1" type="Java Scratch" factoryName="Java Scratch">
+      <option name="MAIN_CLASS_NAME" value="net.braingang.merge_sort1.Main" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/merge_sort1/src/main/java" />
+    </configuration>
+    <configuration name="permute1" type="Java Scratch" factoryName="Java Scratch">
+      <option name="MAIN_CLASS_NAME" value="net.braingang.permute1.Main" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/permute1/src/main/java" />
     </configuration>
     <configuration name="quick_sort1" type="Java Scratch" factoryName="Java Scratch">
       <option name="MAIN_CLASS_NAME" value="net.braingang.quick_sort1.Main" />
@@ -326,6 +289,10 @@
       <item itemvalue="Java Scratch.string_reverse1" />
       <item itemvalue="Java Scratch.hash_table1" />
       <item itemvalue="Java Scratch.recursive_fib" />
+      <item itemvalue="Java Scratch.merge_sort1" />
+      <item itemvalue="Java Scratch.bin_search1" />
+      <item itemvalue="Java Scratch.magic_square1" />
+      <item itemvalue="Java Scratch.permute1" />
       <item itemvalue="Java Scratch.bubble_sort1" />
       <item itemvalue="Java Scratch.selection_sort1" />
     </list>
@@ -353,14 +320,22 @@
       <workItem from="1526409694909" duration="8811000" />
       <workItem from="1526428227611" duration="3517000" />
       <workItem from="1526434466630" duration="573000" />
+      <workItem from="1526504384410" duration="3030000" />
+      <workItem from="1526588091211" duration="3456000" />
+      <workItem from="1526595803592" duration="2120000" />
+      <workItem from="1526664589074" duration="3630000" />
+      <workItem from="1526671786588" duration="4270000" />
+      <workItem from="1526798011196" duration="2608000" />
+      <workItem from="1526854437142" duration="9721000" />
+      <workItem from="1526870753570" duration="2528000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32727000" />
+    <option name="totallyTimeSpent" value="64090000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="531" y="23" width="1389" height="1097" extended-state="0" />
+    <frame x="262" y="23" width="1482" height="1069" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -374,17 +349,17 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.399" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39814815" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="DB Browser" order="2" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.329" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3271605" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.278" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28703704" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34001485" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19652778" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -439,36 +414,28 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/bubble_sort1/src/main/java/net/braingang/bubble_sort1/Main.java</url>
-          <line>32</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/quick_sort1/src/main/java/net/braingang/quick_sort1/Main.java</url>
-          <line>53</line>
+          <line>55</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/permute1/src/main/java/net/braingang/permute1/Main.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/permute1/src/main/java/net/braingang/permute1/Main.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="6" />
+      <option name="time" value="21" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/shell_sort1/src/main/java/net/braingang/shell_sort1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1365">
-          <caret line="93" column="35" lean-forward="true" selection-start-line="82" selection-end-line="93" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree_sort1/src/main/java/net/braingang/tree_sort1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shell_sort1/src/main/java/net/braingang/shell_sort1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -685,13 +652,6 @@
     <entry file="file://$PROJECT_DIR$/recursive_fib/Main.java" />
     <entry file="file://$PROJECT_DIR$/thread_demo1/src/main/java/net/braingang/demo1/Main.java" />
     <entry file="file://$PROJECT_DIR$/recursive_fib/Main.java" />
-    <entry file="file://$PROJECT_DIR$/sample1/src/main/java/net/braingang/sample1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/thread_demo1/src/main/java/net/braingang/thread_demo/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="626">
@@ -699,38 +659,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recursive_fib/src/main/java/net/braingang/recursive_fib/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selection_sort1/src/main/java/net/braingang/selection_sort1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/insertion_sort1/src/main/java/net/braingang/insertion_sort1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="7" selection-start-line="5" selection-start-column="3" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bubble_sort1/src/main/java/net/braingang/bubble_sort1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="5" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quick_sort1/src/main/java/net/braingang/quick_sort1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="24" selection-start-line="14" selection-end-line="24" />
         </state>
       </provider>
     </entry>
@@ -750,15 +682,81 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/string_reverse1/src/main/java/net/braingang/string_reverse1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        <state relative-caret-position="195">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bubble_sort1/src/main/java/net/braingang/bubble_sort1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/merge_sort1/src/main/java/net/braingang/merge_sort1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-739">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selection_sort1/src/main/java/net/braingang/selection_sort1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quick_sort1/src/main/java/net/braingang/quick_sort1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recursive_fib/src/main/java/net/braingang/recursive_fib/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample1/src/main/java/net/braingang/sample1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin_search1/src/main/java/net/braingang/bin_search1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="104" column="8" selection-start-line="104" selection-start-column="8" selection-end-line="104" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hash_table1/src/main/java/net/braingang/hash_table1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="225">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magic_square1/src/main/java/net/braingang/sample1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/permute1/src/main/java/net/braingang/permute1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="715">
+          <caret line="97" column="43" selection-start-line="97" selection-start-column="43" selection-end-line="97" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
