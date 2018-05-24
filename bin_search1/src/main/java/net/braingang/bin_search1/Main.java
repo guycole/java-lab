@@ -85,9 +85,7 @@ public class Main {
         // left, root, right
         if (root != null) {
             inOrder(root.left);
-
             System.out.println(root);
-
             inOrder(root.right);
         }
     }
@@ -110,6 +108,42 @@ public class Main {
         }
     }
 
+    int size(Node root) {
+        if (root == null) {
+            return 0;
+        } else {
+            return size(root.left) + 1 + size(root.right);
+        }
+    }
+
+    int maxDepth(Node root) {
+        if (root == null) {
+            return 0;
+        } else {
+            int leftDepth = maxDepth(root.left);
+            int rightDepth = maxDepth(root.right);
+
+            return 1 + Math.max(leftDepth, rightDepth);
+        }
+    }
+
+    int minValue(Node root) {
+        while (root.left != null) {
+            root = root.left;
+        }
+
+        return root.key;
+    }
+
+    boolean pathSum(Node root, int sum) {
+        if (root == null) {
+            return false;
+        } else {
+            int tempSum = sum - root.key;
+            return pathSum(root.left, tempSum) || pathSum(root.right, tempSum);
+        }
+    }
+
     public static void main(String[] args) {
         System.out.println("begin");
 
@@ -119,12 +153,19 @@ public class Main {
 
         for (int ii = 0; ii < candidates.length; ii++) {
             candidates[ii] = random.nextInt(1000);
+            System.out.println(ii + ":" + candidates[ii]);
 //            candidates[ii] = ii;
         }
 
         Main main = new Main();
         Node root = main.buildTree(candidates);
         System.out.println("root:" + root);
+        System.out.println("size:" + main.size(root));
+        System.out.println("depth:" + main.maxDepth(root));
+        System.out.println("minVal:" + main.minValue(root));
+        System.out.println("pathSum:" + main.pathSum(root, 5));
+
+        System.out.println("-x-x-x-x-");
         main.inOrder(root);
         System.out.println("-x-x-x-x-");
         main.preOrder(root);

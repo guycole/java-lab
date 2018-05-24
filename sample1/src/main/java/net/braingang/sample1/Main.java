@@ -7,7 +7,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        System.out.println("begin2");
+        System.out.println("begin2x");
 
         Main main = new Main();
 
