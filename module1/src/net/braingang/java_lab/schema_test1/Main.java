@@ -15,15 +15,15 @@ public class Main {
     public boolean testSchema(ArrayList<HashMap<String, Object>> candidates) {
         for (int ii = 0; ii < candidates.size(); ii++) {
             HashMap<String, Object> hm1 = candidates.get(ii);
-            Set<String> key1 = hm1.keySet();
+            Set<String> keySet1 = hm1.keySet();
 
             for (int jj = ii+1; jj < candidates.size(); jj++) {
                 HashMap<String, Object> hm2 = candidates.get(jj);
-                Set<String> key2 = hm2.keySet();
+                Set<String> keySet2 = hm2.keySet();
 
-                if (!key1.equals(key2)) return false;
+                if (!keySet1.equals(keySet2)) return false;
 
-                for (String key:key1) {
+                for (String key:keySet1) {
                     Object oo1 = hm1.get(key);
                     Object oo2 = hm2.get(key);
 

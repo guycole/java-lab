@@ -116,15 +116,13 @@ public class Main {
         }
     }
 
-    int maxDepth(Node root) {
-        if (root == null) {
-            return 0;
-        } else {
-            int leftDepth = maxDepth(root.left);
-            int rightDepth = maxDepth(root.right);
+    int height(Node root) {
+        if (root == null) return -1;
 
-            return 1 + Math.max(leftDepth, rightDepth);
-        }
+        int left = 1 + height(root.left);
+        int right = 1 + height(root.right);
+
+        return left > right ? left:right;
     }
 
     int minValue(Node root) {
@@ -161,7 +159,7 @@ public class Main {
         Node root = main.buildTree(candidates);
         System.out.println("root:" + root);
         System.out.println("size:" + main.size(root));
-        System.out.println("depth:" + main.maxDepth(root));
+        System.out.println("height:" + main.height(root));
         System.out.println("minVal:" + main.minValue(root));
         System.out.println("pathSum:" + main.pathSum(root, 5));
 
