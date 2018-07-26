@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class Main {
     /*
-    ** binary search
+    ** binary search is o(log N)
     ** search/insert big O = O(h) (worst case) where h is tree height
     */
 
